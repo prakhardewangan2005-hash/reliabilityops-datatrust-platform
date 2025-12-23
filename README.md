@@ -90,6 +90,3 @@ Artifacts generated:
 
 This project demonstrates **data ingestion, SQL modeling, data quality enforcement, and run-level monitoring** — the core loop of Data Ops / Data Technician roles.
 
-## Screenshots
-![Terminal run](assets/terminal-run.png)
-![DQ results](assets/dq-report.png)
