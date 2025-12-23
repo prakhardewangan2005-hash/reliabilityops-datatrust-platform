@@ -80,3 +80,16 @@ docker-compose.yml  local Postgres
 
 ## Links
 - GitHub: `https://github.com/prakhardewangan2005-hash/reliabilityops-datatrust-platform`
+- ## Results (sample run)
+**Checks:** 21 | **Passed:** 20 | **Failed:** 1 | **High severity failed:** 1
+
+Artifacts generated:
+- `reports/dq_report_*.json`
+- `monitoring.dq_runs` + `monitoring.dq_results` tables populated
+
+## Screenshots
+![Terminal run](assets/terminal-run.png)
+![DQ report](assets/dq-report.png)
+
+This project demonstrates **data ingestion, SQL modeling, data quality enforcement, and run-level monitoring** — the core loop of Data Ops / Data Technician roles.
+
