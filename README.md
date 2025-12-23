@@ -87,9 +87,6 @@ Artifacts generated:
 - `reports/dq_report_*.json`
 - `monitoring.dq_runs` + `monitoring.dq_results` tables populated
 
-## Screenshots
-![Terminal run](assets/terminal-run.png)
-![DQ report](assets/dq-report.png)
 
 This project demonstrates **data ingestion, SQL modeling, data quality enforcement, and run-level monitoring** — the core loop of Data Ops / Data Technician roles.
 
